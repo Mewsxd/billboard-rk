@@ -1,0 +1,13 @@
+.navContainer {
+  width: 75%;
+  display: flex;
+  margin: 0 auto;
+}
+.navContainer ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+.navContainer li {
+  cursor: pointer;
+}
