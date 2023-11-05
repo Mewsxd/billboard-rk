@@ -5,7 +5,7 @@ import HeroSection from "./components/home components/HeroSection";
 const App = () => {
   return (
     <div>
-      <HeroSection />
+      <HomePage />
     </div>
   );
 };
