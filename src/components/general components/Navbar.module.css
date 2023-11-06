@@ -21,13 +21,13 @@
   margin: 0 auto;
 }
 .navContainer h1 {
-  font-size: 5.2rem;
+  font-size: 3.17vw;
   margin: 0;
 }
 .navContainer ul {
   list-style: none;
   display: flex;
-  gap: 8rem;
+  gap: 4.8vw;
 }
 .navContainer li {
   /* color: white; */
