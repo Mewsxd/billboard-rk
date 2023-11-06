@@ -17,7 +17,48 @@ const HeroSection = () => {
             <a href="#">OUR SERVICES</a>
           </button>
         </div>
+        {/* <div className={styles.attentionSection}>
+          <div className={styles.leftPart}>
+            <h2>
+              WE CREATE MASS <br />
+              PUBLIC'S EYE
+              <br />
+              <span>ATTENTION</span>
+            </h2>
+
+            <button>
+              <a href="#">WHO WE ARE</a>
+            </button>
+          </div>
+          <div className={styles.rightPart}>
+            <p>
+              We are a value-driven organization. Our core values inspire us to
+              push our boundaries and set benchmarks for others
+            </p>
+          </div>
+        </div> */}
       </div>
+      <div className={styles.attentionSection}>
+        <div className={styles.leftPart}>
+          <h2>
+            WE CREATE MASS <br />
+            PUBLIC'S EYE
+            <br />
+            <span>ATTENTION</span>
+          </h2>
+
+          <button>
+            <a href="#">WHO WE ARE</a>
+          </button>
+        </div>
+        <div className={styles.rightPart}>
+          <p>
+            We are a value-driven organization. Our core values inspire us to
+            push our boundaries and set benchmarks for others
+          </p>
+        </div>
+      </div>
+      {/* <div className={styles.test}></div> */}
     </div>
   );
 };
