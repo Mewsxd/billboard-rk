@@ -21,6 +21,7 @@ const HomePage = () => {
     <div>
       <Navbar />
       <HeroSection />
+      <h1 style={{ margin: "20rem 0rem" }}> dj d cd ckjebijcbeicbeoc</h1>
     </div>
   );
 };
