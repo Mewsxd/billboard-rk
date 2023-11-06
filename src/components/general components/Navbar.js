@@ -43,7 +43,7 @@ const Navbar = () => {
           <BsLinkedin className={styles.socialMediaIcons} />
         </li>
       </ul> */}
-        <button className={styles.socialMediaIcons}>CONTACT US</button>
+        <button>CONTACT US</button>
       </nav>
     </div>
   );
